@@ -62,7 +62,5 @@ snake-game/
 
 🌈 Multiple difficulty levels or speed modes
 
-📱 Touch controls for mobile
-
 📜 License
 This is an open and unlicensed test project. Feel free to use, modify, and learn from it!
